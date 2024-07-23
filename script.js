@@ -29,3 +29,4 @@ footer_styles.style["font-style"] = "italic";
 
 footer_styles = document.querySelector("footer");
 footer_styles.style["text-decoration"] = "underline overline";
+
